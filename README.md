@@ -1,7 +1,7 @@
 # 🐍 Repositório de Estudos em Python
 
 Este repositório reúne meus estudos contínuos em Python, desde os fundamentos até tópicos mais avançados.  
-O objetivo é documentar minha evolução na linguagem por meio de exercícios, projetos.
+O objetivo é documentar minha evolução na linguagem por meio de exercícios e projetos.
 
 ## Conteúdo
 
