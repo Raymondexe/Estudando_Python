@@ -14,7 +14,7 @@ O objetivo é documentar minha evolução na linguagem por meio de exercícios, 
 - Listas, tuplas e dicionários
 - Funções
 
-### 🧠 Intermediário (Em andamento...)
+### Intermediário (Em andamento...)
 - Manipulação de strings
 - Tratamento de erros
 - Arquivos (leitura e escrita)
